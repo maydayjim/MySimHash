@@ -1,0 +1,48 @@
+
+
+class SimCheckService{
+
+    /*
+    1. 检查重复
+    2. 如果没有重复，提交至库
+    */
+    boolean simCheck(Content content){
+
+    }
+
+   // HashMap<String /*segmentHash*/,SimHashValue> values;//建立倒排索引
+
+    private Collection<SimHashValue> getSimHashValue(int seq, String segmentHash){
+             //获取符合某片段的全部数据集合
+         }
+
+
+    private initializeSimHashValue(Content content){
+        //simhash函数创建一个simHashValue类，计算存储content的哈希值并存储它。
+    }
+}
+
+class SimCheckCase{
+    public void test1(){
+        Content content1 = new Content(1,"ksdjflkjsdlfjsdkl")
+        SimCheckService simCheckService = new SimCheckService();
+        assertFalse(simCheckService.simCheck(content1));
+
+        Content content2 = new Content(2,"ksdjflkjsdlfjsdkl")
+        assertTrue(simCheckService.simCheck(content2));
+    }
+}
+
+class Content{
+    Long id;
+    String content;
+}
+
+//每个content生成六个simhashvalue.
+class SimHashValue{
+    Long contentId;
+    int seq;
+    String segmentHash;
+    String fullHash;
+}
+
