@@ -27,6 +27,7 @@ public class Content {
         // 词频
         double wordRate;
         String w;
+        String ww;//用来判断是否是标点符号
         String[] array;
 
         invalidCount = 0;
@@ -39,7 +40,8 @@ public class Content {
 
             w = str.substring(0, index);//用切片操作去除斜杠
             // 只过滤掉标点符/wn，说明这个词是个逗号，下一个
-            if (str.contains("wn") || str.contains("wd")) {
+            ww = str.substring(index);
+            if (ww.contains("w")) {
                 invalidCount++;
                 continue;
             }

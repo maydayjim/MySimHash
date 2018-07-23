@@ -17,24 +17,24 @@ public class SimCheckService {
     int hashBitNum = 64;
 
     // 最小阈值
-    double minSupportValue  = 5;
+    double minSupportValue  = 3;
 
     ArrayList<SimHashValue> AllSimHashValue = new ArrayList();
      /**
      * 判断是否有重复，两层循环，大循环是各seg，小循环是把符合seg的simhashvalue都计算一下，满足的就说重复了，不然就继续，没重复的入库
       *
-      * 阈值改成3，主要的工作是循环变成四！
+      * 阈值改成3，主要的工作是循环变成四，切成四段
      * 
      */
     public boolean simCheck(Content news){
         boolean flag = false;
         SimHashValue[] waitSimHashValue = generateSimHashValue(news);
 
-        for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < 4; i++) {
             String waitfullsimhash = waitSimHashValue[i].fullHash;
             char[] fullsimhashArray = waitfullsimhash.toCharArray();
             String waitsegment = waitSimHashValue[i].segmentHash;
-            int waitseq =  waitSimHashValue[i].seq;
+            int waitseq =  waitSimHashValue[i].segNum;
 
             ArrayList<SimHashValue> consimHashValue = getSimHashValue(waitseq,waitsegment);
             if(consimHashValue.size() == 0){
@@ -49,7 +49,7 @@ public class SimCheckService {
                         sameNum++;
                     }
                 }
-                if(sameNum >= 5){
+                if(sameNum >= 3){
                     flag = true;
                     System.out.println(String.format("重复度高达%s",sameNum));
                     return flag;
@@ -58,7 +58,7 @@ public class SimCheckService {
 
         }
         if(flag == false){
-            for (int i = 0; i < 6; i++) {
+            for (int i = 0; i < 4; i++) {
                 AllSimHashValue.add(waitSimHashValue[i]);
             }
         }
@@ -67,32 +67,43 @@ public class SimCheckService {
     }
 
     /**
-     *初始化哈希类,创建六个simhashvalue来存储各seg
+     *初始化哈希类,创建四个simhashvalue来存储各seg
      */
      private SimHashValue[] generateSimHashValue(Content news){
         long contentID = news.contentID;
-        SimHashValue[] simHashArray = new SimHashValue[6];
+        SimHashValue[] simHashArray = new SimHashValue[4];
         int[] fullhashArray = calSimHashValue(news);
         String fullhash = "";
         for (int i = 0; i < 64; i++) {
              fullhash = fullhash + fullhashArray[i];
         }
         int startIndex = 0;
-        int endIndex = 10;
+        int endIndex = 16;
 
         //一次循环给大家都赋值好
 
-         for (int i = 0; i < 6 ; i++) {
-             SimHashValue tempsimHash =new SimHashValue();
+//         for (int i = 0; i < 6 ; i++) {
+//             SimHashValue tempsimHash =new SimHashValue();
+//             tempsimHash.contentID = contentID;
+//             tempsimHash.seq = i;
+//             tempsimHash.fullHash =  fullhash;
+//             tempsimHash.segmentHash = fullhash.substring(startIndex,endIndex);
+//             startIndex = endIndex;
+//             endIndex += 10;
+//             if(i == 4){
+//                 endIndex = 64;
+//             }
+//             simHashArray[i] = tempsimHash;
+//         }
+
+         for (int i = 0; i < 4; i++) {
+             SimHashValue tempsimHash = new SimHashValue();
              tempsimHash.contentID = contentID;
-             tempsimHash.seq = i;
-             tempsimHash.fullHash =  fullhash;
+             tempsimHash.segNum = i;
+             tempsimHash.fullHash = fullhash;
              tempsimHash.segmentHash = fullhash.substring(startIndex,endIndex);
              startIndex = endIndex;
-             endIndex += 10;
-             if(i == 4){
-                 endIndex = 64;
-             }
+             endIndex += 16;
              simHashArray[i] = tempsimHash;
          }
          return simHashArray;
@@ -102,13 +113,14 @@ public class SimCheckService {
     /**
      * 返回某段seg与待匹配seg相等的所有集合
      */
-    private ArrayList<SimHashValue> getSimHashValue(int seq, String segmentHash){
+    private ArrayList<SimHashValue> getSimHashValue(int segNum, String segmentHash){
         //获取符合某片段的全部数据集合
-        ArrayList<SimHashValue> conSimHashValue = new ArrayList<SimHashValue>();
-        SimHashValue simHashValue = new SimHashValue();
-        for (int i = 0; i < AllSimHashValue.size(); i++) {
-            simHashValue = AllSimHashValue.get(i);
-            if(simHashValue.seq == seq && simHashValue.segmentHash.equals(segmentHash)){
+        ArrayList<SimHashValue> conSimHashValue = new ArrayList<>();
+//        SimHashValue simHashValue = new SimHashValue();
+        int size = AllSimHashValue.size();
+        for (int i = 0; i < size; i++) {
+            SimHashValue simHashValue = AllSimHashValue.get(i);
+            if(simHashValue.segNum == segNum && simHashValue.segmentHash.equals(segmentHash)){
                     conSimHashValue.add(simHashValue);
             }
         }
@@ -150,7 +162,7 @@ public class SimCheckService {
             }
             // 进行哈希值的计算
             hashValue = BKDRHash(w);
-            // 取余把位数变为n位
+            // 取余把位数变为64位
             hashValue %= Math.pow(2, 64);
 
             // 转为二进制的形式
@@ -248,6 +260,8 @@ public class SimCheckService {
 
         return strBuilder.toString();
     }
+
+
 
 
 }

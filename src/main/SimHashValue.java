@@ -3,8 +3,8 @@ package main;
 
 
 public class SimHashValue {
-    long contentID;
-    int seq;
+    long contentID ;
+    int segNum ;
     String segmentHash = "";
     String fullHash = "";
 

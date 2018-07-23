@@ -1,7 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cdaa8e6-cf2f-46c7-b067-9a78c29c9dab" name="Default" comment="" />
+    <list default="true" id="1cdaa8e6-cf2f-46c7-b067-9a78c29c9dab" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jna_4_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20141225.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20151225.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20151228.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20160107.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20160119.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20161018.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20161020.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20161027.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20180530.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/20180606.err" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/BIG2GBK.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/BIG5.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/BIG5.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/BiWord.big" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/Configure.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/CoreDict.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/CoreDict.pos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/CoreDict.unig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/DocExtractor.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.pos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.ung" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/Irrel2regular.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/ne.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/ne.pos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/English/ne.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/FTU8.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/FTU8.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/FTU82GBK.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/FieldDict.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/FieldDict.pos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBK.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBK.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2BIG.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2FTU8.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2GBKC.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2UTF.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBKA.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBKA.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBKA2UTF.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBKC.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBKC.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GBKC2GBK.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GranDict.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/GranDict.pos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/ICTPOS.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/JZSearch.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/LJHtmlParser.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/LJRedupRemover.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR.ctx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR_First.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR_trial.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/NewWord.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/NewWordFinder.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/PKU.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/PKU_First.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/UTF2GBK.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/UTF2GBKA.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/UTF8.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/UTF8.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/UserDefinedDict.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/UserDict.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/charset.type" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/classifier.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/cluster.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/deepclassifier.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/keyExtract.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/keyScan.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/location.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/location.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/location.wordlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/nr.ctx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/nr.fsa" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/nr.role" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.pdat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.ung" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data/summary.user" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/source/NLPIR.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/source/NLPIR.lib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Clibrary.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Demo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText5" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText_after" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText_before" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Text/trainText_comp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/mysimHash.iml" afterPath="$PROJECT_DIR$/mysimHash.iml" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/Content.class" afterPath="$PROJECT_DIR$/out/production/mysimHash/main/Content.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/SimCheckService.class" afterPath="$PROJECT_DIR$/out/production/mysimHash/main/SimCheckService.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/SimHashValue.class" afterPath="$PROJECT_DIR$/out/production/mysimHash/main/SimHashValue.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/test.class" afterPath="$PROJECT_DIR$/out/production/mysimHash/main/test.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysimHash/main/trainText9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/Content.java" afterPath="$PROJECT_DIR$/src/main/Content.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/SimCheckService.java" afterPath="$PROJECT_DIR$/src/main/SimCheckService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/SimHashValue.java" afterPath="$PROJECT_DIR$/src/main/SimHashValue.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/test.java" afterPath="$PROJECT_DIR$/src/main/test.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText2" afterPath="$PROJECT_DIR$/src/main/Text/trainText2" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/trainText9" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,31 +137,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="SimCheckService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimCheckService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/SimCheckService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trainText7" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText7">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="958" lean-forward="false" selection-start-line="0" selection-start-column="958" selection-end-line="0" selection-end-column="958" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trainText8" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText8">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="960" lean-forward="false" selection-start-line="0" selection-start-column="960" selection-end-line="0" selection-end-column="960" />
+            <state relative-caret-position="-5591">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -48,68 +150,20 @@
       <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="92" lean-forward="false" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
-              <folding />
+            <state relative-caret-position="25">
+              <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trainText9" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText9">
+      <file leaf-file-name="trainText_before" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Text/trainText_before">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2044" lean-forward="false" selection-start-line="0" selection-start-column="2044" selection-end-line="0" selection-end-column="2044" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trainText5" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText5">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trainText2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trainText3" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText3">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trainText6" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/trainText6">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Content.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Content.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1404">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="378">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -121,6 +175,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -134,6 +189,9 @@
       <find>Word</find>
       <find>News</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -160,22 +218,29 @@
         <option value="$PROJECT_DIR$/src/main2/SimHash_Li/News.java" />
         <option value="$PROJECT_DIR$/src/main/Word.java" />
         <option value="$PROJECT_DIR$/src/main2/SimHash_Li/SimHashTool.java" />
-        <option value="$PROJECT_DIR$/src/main/Content.java" />
         <option value="$PROJECT_DIR$/src/main/test321.java" />
         <option value="$PROJECT_DIR$/src/main/id2simHash.java" />
         <option value="$PROJECT_DIR$/src/SimHashLi/test.java" />
-        <option value="$PROJECT_DIR$/src/main/trainText1" />
-        <option value="$PROJECT_DIR$/src/main/trainText4" />
-        <option value="$PROJECT_DIR$/src/main/trainText5" />
         <option value="$PROJECT_DIR$/src/main/someStandard" />
         <option value="$PROJECT_DIR$/src/main2/SimHashValue.java" />
-        <option value="$PROJECT_DIR$/src/main/SimHashValue.java" />
         <option value="$PROJECT_DIR$/src/main/trainTest6" />
         <option value="$PROJECT_DIR$/src/main/taintext7" />
         <option value="$PROJECT_DIR$/src/main/trainText8" />
+        <option value="$PROJECT_DIR$/src/main/SimHashValue.java" />
+        <option value="$PROJECT_DIR$/src/main/Content.java" />
         <option value="$PROJECT_DIR$/src/main/trainText9" />
-        <option value="$PROJECT_DIR$/src/main/test.java" />
+        <option value="$PROJECT_DIR$/src/main/ICTCLAS50.java" />
         <option value="$PROJECT_DIR$/src/main/SimCheckService.java" />
+        <option value="$PROJECT_DIR$/src/main/trainText1" />
+        <option value="$PROJECT_DIR$/src/main/trainText3" />
+        <option value="$PROJECT_DIR$/src/main/trainText5" />
+        <option value="$PROJECT_DIR$/src/main/trainText4" />
+        <option value="$PROJECT_DIR$/src/main/NlpTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Clibrary.java" />
+        <option value="$PROJECT_DIR$/src/main/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/Text/trainText_comp" />
+        <option value="$PROJECT_DIR$/src/main/test.java" />
+        <option value="$PROJECT_DIR$/src/main/Text/trainText_before" />
       </list>
     </option>
   </component>
@@ -185,8 +250,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="687" />
     <option name="width" value="920" />
     <option name="height" value="1030" />
   </component>
@@ -209,6 +280,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -224,13 +298,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mysimHash" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysimHash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysimHash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysimHash" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysimHash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysimHash" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysimHash" type="b2602c69:ProjectViewProjectNode" />
@@ -245,15 +328,23 @@
             </path>
             <path>
               <item name="mysimHash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysimHash" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Text" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysimHash" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,18 +354,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MycodePractice\mysimHash\src\source" />
+      <recent name="E:\MycodePractice\mysimHash\src" />
+      <recent name="E:\MycodePractice\mysimHash\src\main" />
       <recent name="E:\MycodePractice\mysimHash\src\main2\SimHash_Li" />
+      <recent name="E:\MycodePractice\mysimHash\src\main2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\MycodePractice\mysimHash\src\main" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MycodePractice\mysimHash" />
+      <recent name="E:\MycodePractice\mysimHash\src\main\Text" />
       <recent name="E:\MycodePractice\mysimHash\src\main2\SimHash_Li" />
-      <recent name="E:\MycodePractice\mysimHash\src\main2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -465,12 +564,20 @@
       <workItem from="1526867598645" duration="11128000" />
       <workItem from="1527053342077" duration="5985000" />
       <workItem from="1527147843094" duration="2723000" />
-      <workItem from="1527484997226" duration="1206000" />
+      <workItem from="1527484997226" duration="13795000" />
+      <workItem from="1527647727777" duration="7057000" />
+      <workItem from="1528078373843" duration="20596000" />
+      <workItem from="1528461851270" duration="15093000" />
+      <workItem from="1529812275952" duration="267000" />
+      <workItem from="1531796287728" duration="694000" />
+      <workItem from="1531821347330" duration="2295000" />
+      <workItem from="1531873823204" duration="1682000" />
+      <workItem from="1532306654326" duration="4022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160335000" />
+    <option name="totallyTimeSpent" value="224630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -478,39 +585,39 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25511432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3746988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521692" sideWeight="0.4935275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22234273" sideWeight="0.4935275" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39350182" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21149674" sideWeight="0.50647247" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4939759" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -518,20 +625,20 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4939759" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3746988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22234273" sideWeight="0.4935275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21149674" sideWeight="0.50647247" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,59 +649,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="35" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/trainText2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="259" lean-forward="false" selection-start-line="0" selection-start-column="259" selection-end-line="0" selection-end-column="259" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/SimHashValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="90" lean-forward="false" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/someStandard">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/mian/defIntFace.java" />
-    <entry file="file://$PROJECT_DIR$/mysimHash.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimHash_Li/testText1" />
-    <entry file="file://$PROJECT_DIR$/src/SimHash_Li/trainText2" />
-    <entry file="file://$PROJECT_DIR$/src/SimHash_Li/trainText3" />
     <entry file="file://$PROJECT_DIR$/src/SimHash_Li/Word.java" />
     <entry file="file://$PROJECT_DIR$/src/main/calSimHash" />
     <entry file="file://$PROJECT_DIR$/src/SimHash_Li/ICTCLAS50.java" />
@@ -650,114 +709,234 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/SimHashValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main2/SimHashValue.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/someStandard">
+    <entry file="file://$PROJECT_DIR$/src/main/trainText6" />
+    <entry file="file://$PROJECT_DIR$/src/main/trainText7" />
+    <entry file="file://$PROJECT_DIR$/src/main/trainText9" />
+    <entry file="file://$PROJECT_DIR$/src/main/trainText8" />
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="19" column="126" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText1">
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText3">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="174" lean-forward="false" selection-start-line="0" selection-start-column="174" selection-end-line="0" selection-end-column="174" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Content.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText3">
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText5">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
-          <folding />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText8">
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ICTCLAS50.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="35" column="48" lean-forward="false" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/NlpTest.java" />
+    <entry file="file://$PROJECT_DIR$/mysimHash.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="960" lean-forward="false" selection-start-line="0" selection-start-column="960" selection-end-line="0" selection-end-column="960" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText2">
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        <state relative-caret-position="162">
+          <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="92" lean-forward="false" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+        <state relative-caret-position="264">
+          <caret line="712" column="25" lean-forward="false" selection-start-line="712" selection-start-column="25" selection-end-line="712" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText7">
+    <entry file="jar://$PROJECT_DIR$/lib/jna-4.0.0.jar!/com/sun/jna/Native.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="958" lean-forward="false" selection-start-line="0" selection-start-column="958" selection-end-line="0" selection-end-column="958" />
+        <state relative-caret-position="7743">
+          <caret line="372" column="35" lean-forward="false" selection-start-line="372" selection-start-column="35" selection-end-line="372" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/trainText9">
+    <entry file="file://$PROJECT_DIR$/src/main/Clibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2044" lean-forward="false" selection-start-line="0" selection-start-column="2044" selection-end-line="0" selection-end-column="2044" />
+        <state relative-caret-position="-324">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/SimCheckService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="-5591">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText_comp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="459" lean-forward="false" selection-start-line="0" selection-start-column="459" selection-end-line="0" selection-end-column="459" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText_after">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SimHashValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/someStandard">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1253">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Text/trainText_before">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mysimHash</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
